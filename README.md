@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hritik246
 - 👀 I’m interested in physics based developing and modeling 
 - 🌱 I’m a physics graduate with strong interest in developing visualizations based on physical concepts 
-- 💞️ I’m looking to collaborate on variious fundamental concepts in physics and solving and modelling them like adaptive optics
+- 💞️ I’m looking to collaborate on variious fundamental concepts in physics and solving and modelling them and solving problems intuitively.
 - 📫 How to reach me ... email adrontis369@gmail.com
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: ...
