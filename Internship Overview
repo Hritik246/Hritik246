@@ -1,0 +1,6 @@
+Internship Report 
+My inernship was focused on ion optical simulation of charged particles using and ion simulation program called SIMION 
+I had constructed geometries of electrostatic lenses to study their patterns of aberrations 
+Those geometries could be impprted via CAD files , can be drawn in SIMION by drawing each electrode and can be tweaked by manipulating the built in LUA code 
+I found out the spherical aberration in einzel lenses 
+an einzel lens is a three element lens with each electrode driven by some potential 
